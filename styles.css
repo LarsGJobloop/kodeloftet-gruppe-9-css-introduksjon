@@ -1,0 +1,32 @@
+/*
+  Hello! I am a comment
+  */
+h1 {
+  color: hsl(129, 87%, 21%);
+  background-color: rgb(188, 143, 143);
+  font-size: medium;
+}
+
+h1 {
+  background-color: deeppink;
+}
+
+h1 {
+  background-color: red;
+}
+
+h1 {
+  background-color: lemonchiffon;
+}
+
+p {
+  font-family: fantasy;
+}
+
+#foo {
+  color: cornflowerblue;
+}
+
+.bg-blue {
+  background-color: rgb(142, 175, 236);
+}
